@@ -4,7 +4,7 @@
 #
 Name     : golang-github-golang-glog
 Version  : 23def4e6c14b4da8ac2ed8007337bc5eb5007998
-Release  : 2
+Release  : 3
 URL      : https://github.com/golang/glog/archive/23def4e6c14b4da8ac2ed8007337bc5eb5007998.tar.gz
 Source0  : https://github.com/golang/glog/archive/23def4e6c14b4da8ac2ed8007337bc5eb5007998.tar.gz
 Summary  : No detailed summary available
